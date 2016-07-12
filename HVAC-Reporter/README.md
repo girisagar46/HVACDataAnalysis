@@ -20,10 +20,10 @@ __api__ *endpoints*
 
 `<localhost>:<port>`
 
-| URL          | result        |
-|--------------|:-------------:|
-|/api/hvac     | all data      |
-|/api/hvac/<id>| data for <id> |
+| URL               | result                    |
+|-------------------|:-------------------------:|
+|/api/hvac          | all data                  |
+|/api/hvac/14       | data for building 14      |
 
 __How it works?__
 
