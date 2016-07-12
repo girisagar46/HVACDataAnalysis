@@ -18,7 +18,8 @@ __How to run?__
 
 __api__ *endpoints*
 
-<localhost>:<port>
+`<localhost>:<port>`
+
 | URL          | result        |
 |--------------|:-------------:|
 |/api/hvac     | all data      |
